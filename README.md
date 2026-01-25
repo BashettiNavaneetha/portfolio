@@ -6,9 +6,7 @@ This portfolio is designed to help recruiters quickly understand my profile and 
 ---
 
 ## 🔗 Live Demo
-https://your-portfolio-link.netlify.app
-
-(Replace this with your actual Netlify link)
+https://navaneethaportfolio.netlify.app
 
 ---
 
@@ -17,7 +15,6 @@ https://your-portfolio-link.netlify.app
 - CSS3  
 - Font Awesome  
 
-> This project is built without JavaScript and focuses on clean UI and responsive design.
 
 ---
 
@@ -39,13 +36,7 @@ https://your-portfolio-link.netlify.app
 
 ---
 
-## 📂 Project Structure
-├── index.html
-├── style.css
-├── assets/
-│ └── resume.pdf
-└── README.md
----
+
 
 ## 🚀 How to Run Locally
 1. Clone or download the repository  
@@ -57,5 +48,4 @@ https://your-portfolio-link.netlify.app
 This portfolio can be deployed using:
 - **GitHub Pages**
 - **Netlify**
-
 (Netlify is recommended for faster and easier deployment)
